@@ -1,0 +1,8 @@
+git+https://github.com/huggingface/transformers
+qwen-vl-utils
+accelerate
+litserve
+torch
+bitsandbytes
+termcolor
+openai
