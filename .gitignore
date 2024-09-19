@@ -1,0 +1,4 @@
+**.jpg
+**.png
+# Ingore pycache folder
+__pycache__
